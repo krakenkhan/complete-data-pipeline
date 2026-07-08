@@ -1,4 +1,5 @@
 # Objective : Create the python script to generate fake transactional data.
+
 - Create amount for each cart and quantity of products
 - Aggregate the features
 - Export the new dataset as a CSV
@@ -18,9 +19,13 @@ Below is an example of data describing one shopping transaction. A shopper may p
 
 # Important : Before using the main script "data_generation.py"
 
- - The .env file must be at the root directory of this project
- - All the variables in the .env file are mandatory 
- - Set the values of all the required variables 
- - The 'Config' class is in charge of reading and loading the enviremental variables
- - The generated data file could be found under the 'output' directory
- - The log file is called 'app.log' and could be found under the 'logs' directory
+- The .env file must be at the root directory of this project
+- All the variables in the .env file are mandatory
+- Set the values of all the required variables
+- The 'Config' class is in charge of reading and loading the enviremental variables
+- The generated data file could be found under the 'output' directory
+- The log file is called 'app.log' and could be found under the 'logs' directory
+
+## Acknowledgements
+
+This project utilizes the [SimpleTransactionalDataGenerator](https://github.com/NalayaData/SimpleTransactionalDataGenerator) created by [NalayaData](https://github.com/NalayaData). We are grateful for their open-source contribution, which helped streamline our data generation pipeline.
