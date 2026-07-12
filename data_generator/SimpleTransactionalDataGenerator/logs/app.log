@@ -1,7 +1,7 @@
-2026-07-08 23:24:40,736 - INFO - Reading the mandatory configuration values required for data generation
-2026-07-08 23:24:40,739 - INFO - Start generating the products list
-2026-07-08 23:24:40,739 - INFO - 50 products were generated, where 2 are services
-2026-07-08 23:24:40,739 - INFO - Start generating the transactional data
-2026-07-08 23:24:40,739 - INFO - 52 transactions were generated
-2026-07-08 23:24:40,739 - INFO - Saving the data into Avro file
-2026-07-08 23:24:40,742 - INFO - End of operations
+2026-07-12 16:41:23,439 - INFO - Reading the mandatory configuration values required for data generation
+2026-07-12 16:41:23,443 - INFO - Start generating the products list
+2026-07-12 16:41:23,443 - INFO - 50 products were generated, where 2 are services
+2026-07-12 16:41:23,443 - INFO - Start generating the transactional data
+2026-07-12 16:41:23,443 - INFO - 46 transactions were generated
+2026-07-12 16:41:23,443 - INFO - Saving the data into Avro file
+2026-07-12 16:41:23,446 - INFO - End of operations
